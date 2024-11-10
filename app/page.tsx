@@ -2,7 +2,8 @@
 // app/page.js
 import Navbar from './components/Navbar';
 import { FaFacebook, FaGithub, FaLinkedin } from 'react-icons/fa';
-import Image from '../public/profile.jpeg'; 
+import Image from 'next/image';
+
 
 export default function Home() {
   return (
@@ -14,7 +15,7 @@ export default function Home() {
             
           <div className="flex justify-center mb-6">
               
-          <img
+         < Image 
         src="/profile.jpeg"  // Use the correct path to the image in the public folder
    alt="Sadia Saleem"
   width={260}
