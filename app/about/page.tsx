@@ -12,13 +12,13 @@ export default function About() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
             <div>
               <p className="text-lg text-white dark:text-gray-300 mb-6">
-                I'm a student of software engineering. I'm a passionate Full Stack Developer with over 1.5 years of experience
+              I&apos;m a student of software engineering. I&apos;m a passionate Full Stack Developer with over 1.5 years of experience
                 building web applications. I specialize in React , and modern
                 web technologies.
               </p>
               <p className="text-lg text-white dark:text-gray-300 mb-6">
                 My journey in web development started when I built my first website
-                after FSC. Since then, I've worked on numerous projects and
+                after FSC. Since then, I&apos;m  worked on numerous projects and
                 continuously expanded my skillset.
               </p>
             </div>
