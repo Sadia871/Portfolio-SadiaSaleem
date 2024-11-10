@@ -25,7 +25,7 @@ export default function Home() {
             </div>
 
             <h1 className="text-4xl sm:text-6xl font-bold text-yellow-100 dark:text-white mb-6">
-              Hi, I'm <span className="text-blue-600">SADIA SALEEM</span>
+              Hi, I&apos;m <span className="text-blue-600">SADIA SALEEM</span>
             </h1>
             <p className="text-xl sm:text-2xl text-yellow-100 dark:text-gray-300 mb-8">
             Software Engineering Student | Full Stack Developer | UI/UX Designer 
